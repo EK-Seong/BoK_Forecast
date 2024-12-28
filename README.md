@@ -39,3 +39,13 @@ Our analysis reveals that the BoK’s inflation forecasts are biased under this 
 ![figure_8](/figures/figure_8.png)
 
 Furthermore, we show that applying an AR(1) bias correction strategy enhances forecast accuracy, as demonstrated by a reduction in root mean square error.
+
+The results are illustrated in Figure above. 
+
+The x-axis represents the window size; the y-axis shows the ratio of RMSEs (RRMSE) between the BoK’s forecasts and each bias-correction strategy. 
+
+An RRMSE below 1 indicates that the corresponding strategy outperforms the BoK’s forecast.
+
+The black line with circles represents the RRMSEs for the AR(1) bias-correction strategy.
+
+The results show that the AR(1) strategy improves forecasts across all horizons except for the longest one, $h=3$.
