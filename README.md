@@ -1,5 +1,9 @@
 # Are the Bank of Korea's Inflation Forecasts Biased toward the Target?
 Seong and Lee (2024) - "Are the Bank of Korea's Inflation Forecasts Biased toward the Target?"
+
+### How to access to the replication code and data?
+You can either download [LeeSeong2024_replication.zip] or clone this repo to your local environment.
+
 ### Summary
 
 ![figure_3](/figures/figure_3.png)
@@ -8,5 +12,3 @@ Seong and Lee (2024) - "Are the Bank of Korea's Inflation Forecasts Biased towar
 
 ![figure_8](/figures/figure_8.png)
 
-#### How to access to the replication code and data?
-You can either download [LeeSeong2024_replication.zip] or clone this repo to your local environment.
