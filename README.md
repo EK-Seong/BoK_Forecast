@@ -1,10 +1,10 @@
 # Are the Bank of Korea's Inflation Forecasts Biased toward the Target?
 Seong and Lee (2024) - "Are the Bank of Korea's Inflation Forecasts Biased toward the Target?"
 
-### How to access to the replication code and data?
+#### How to access to the replication code and data?
 You can either download [LeeSeong2024_replication.zip] or clone this repo to your local environment.
 
-### Summary
+## Summary
 
 The Bank of Korea (BoK) regularly publishes the <i>Economic Outlook </i>, offering forecasts for key macroeconomic variables such as GDP growth, inflation, and unemployment rates. 
 
